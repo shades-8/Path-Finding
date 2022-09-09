@@ -1180,7 +1180,7 @@ $(window).on('load',function(){
 
 $(window).on('load',function(){
 		$('#exampleModalLong').modal('disp');
-		$('#exampleModalLong').modal('displayed');
-        $('#exampleModalLong').modal('displaying');
+		$('#exampleModalLong').modal('displayed in ph');
+        $('#exampleModalLong').modal('displaying ph');
 });
 
