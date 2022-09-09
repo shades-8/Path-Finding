@@ -1179,5 +1179,6 @@ $(window).on('load',function(){
 });
 
 $(window).on('load',function(){
-        $('#exampleModalLong').modal('display');
+        $('#exampleModalLong').modal('displaying');
 });
+
