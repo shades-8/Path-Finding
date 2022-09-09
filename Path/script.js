@@ -1177,3 +1177,7 @@ $('#myModal').on('shown.bs.modal', function () {
 $(window).on('load',function(){
         $('#exampleModalLong').modal('show');
 });
+
+$(window).on('load',function(){
+        $('#exampleModalLong').modal('display');
+});
